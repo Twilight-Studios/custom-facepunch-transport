@@ -1,3 +1,9 @@
+# Custom Facepunch Transport
+
+Due to the discrepancy between Facepunch version and the one provided by the Unity Transport, this fork makes sure all relevant updated are manually copied over. What comes below is the original repository provided by Unity and the community.
+
+## Original ReadMe
+
 The Multiplayer Community Contributions repository contains extensions provided by the community for Unity Multiplayer Networking products.
 
 ### How to use
